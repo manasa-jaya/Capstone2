@@ -19,11 +19,10 @@ Our analysis can be used to :-
     have the funds available to wisely invest in growth without sacrificing much needed capital for your day-to-day business expenses.<h5>
     
     
-    <h2>Source of Data</h2>
+    <h5>Source of Data</h5>
+       The data contains historic sales data from the client’s database. It was found on Kaggle. We have data ranging from the year 2010 to the year 2013. 
+      This data contains anonymized information for 45 stores in different locations. It contains important data columns such as sales, discounts, size of the              stores, CPI, fuel price etc.The data can be found at this link https://www.kaggle.com/manjeetsingh/retaildataset  </h5>
     
-<h5>The data contains historic sales data from the client’s database. It was found on Kaggle. We have data ranging from the year 2010 to the year 2013. 
-    This data contains anonymized information for 45 stores in different locations. It contains important data columns such as sales, discounts, size of the stores, 
-    CPI, fuel price etc.The data can be found at this link https://www.kaggle.com/manjeetsingh/retaildataset  </h5>
       
     
   <h5>Modeling :- The end goal of this project is to predict sales for next 12 months. For predictions, regression models serve best. So, I decided to use Random Forest Regression and Linear Regression. But here we are not just predicting the sales. We are also predicting how sales change over a period of time. Since the data also consists of successive measurements over a time interval, which also displays seasonality, I have implemented Time Series Forecasting as well.</h5>
