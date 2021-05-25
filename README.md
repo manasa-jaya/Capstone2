@@ -26,7 +26,7 @@ Our analysis can be used to :-
     CPI, fuel price etc.The data can be found at this link https://www.kaggle.com/manjeetsingh/retaildataset  </h5>
       
     
-  <h5>Modeling :- The end goal of this project is to predict sales for next 12 months. For predictions, regression models serve best. So, I decided to use Random Forest Regression and Linear Regression. Since the data also has some seasonality to it, I have implemented Time Series Forecasting as well.</h5>
+  <h5>Modeling :- The end goal of this project is to predict sales for next 12 months. For predictions, regression models serve best. So, I decided to use Random Forest Regression and Linear Regression. But here we are not just predicting the sales. We are also predicting how sales change over a period of time. Since the data also consists of successive measurements over a time interval, which also displays seasonality, I have implemented Time Series Forecasting as well.</h5>
 
   
 
