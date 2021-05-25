@@ -24,9 +24,9 @@ Our analysis can be used to :-
 <h5>The data contains historic sales data from the client’s database. It was found on Kaggle. We have data ranging from the year 2010 to the year 2013. 
     This data contains anonymized information for 45 stores in different locations. It contains important data columns such as sales, discounts, size of the stores, 
     CPI, fuel price etc.The data can be found at this link https://www.kaggle.com/manjeetsingh/retaildataset  </h5>
-       
-    <h3> Modeling </h3>
-       <h5>The end goal of this project is to predict sales for next 12 months. For predictions, regression models serve best. So, I decided to use Random Forest Regression and Linear Regression. Since the data also has some seasonality to it, I have implemented Time Series Forecasting as well.</h5>
+      
+    
+  <h5>Modeling :- The end goal of this project is to predict sales for next 12 months. For predictions, regression models serve best. So, I decided to use Random Forest Regression and Linear Regression. Since the data also has some seasonality to it, I have implemented Time Series Forecasting as well.</h5>
 
   
 
